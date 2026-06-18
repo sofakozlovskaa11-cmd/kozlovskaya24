@@ -1,0 +1,15 @@
+C:\Users\Fr1ippy\Desktop\sofia\bin\Debug\net9.0\sofia.exe
+C:\Users\Fr1ippy\Desktop\sofia\bin\Debug\net9.0\sofia.deps.json
+C:\Users\Fr1ippy\Desktop\sofia\bin\Debug\net9.0\sofia.runtimeconfig.json
+C:\Users\Fr1ippy\Desktop\sofia\bin\Debug\net9.0\sofia.dll
+C:\Users\Fr1ippy\Desktop\sofia\bin\Debug\net9.0\sofia.pdb
+C:\Users\Fr1ippy\Desktop\sofia\obj\Debug\net9.0\sofia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fr1ippy\Desktop\sofia\obj\Debug\net9.0\sofia.AssemblyInfoInputs.cache
+C:\Users\Fr1ippy\Desktop\sofia\obj\Debug\net9.0\sofia.AssemblyInfo.cs
+C:\Users\Fr1ippy\Desktop\sofia\obj\Debug\net9.0\sofia.csproj.CoreCompileInputs.cache
+C:\Users\Fr1ippy\Desktop\sofia\obj\Debug\net9.0\sofia.sourcelink.json
+C:\Users\Fr1ippy\Desktop\sofia\obj\Debug\net9.0\sofia.dll
+C:\Users\Fr1ippy\Desktop\sofia\obj\Debug\net9.0\refint\sofia.dll
+C:\Users\Fr1ippy\Desktop\sofia\obj\Debug\net9.0\sofia.pdb
+C:\Users\Fr1ippy\Desktop\sofia\obj\Debug\net9.0\sofia.genruntimeconfig.cache
+C:\Users\Fr1ippy\Desktop\sofia\obj\Debug\net9.0\ref\sofia.dll
